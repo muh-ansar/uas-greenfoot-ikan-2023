@@ -41,6 +41,10 @@ public class Fish extends Animal
             turn(-5);
         if( Greenfoot.isKeyDown("d") )
             turn(5);
+        if( Greenfoot.isKeyDown("left") )
+            turn(-5);
+        if( Greenfoot.isKeyDown("right") )
+            turn(5);
     }
     
     public void eatShroom()
