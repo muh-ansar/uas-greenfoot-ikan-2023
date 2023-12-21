@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Animal.\ This\ is\ the\ base\ class\ for\ all\ animals.\ In\ addition\ to\ the\ standard\ Actor\r\n\ methods,\ it\ provides\ methods\ to\ check\ for\ being\ at\ the\ edge\ of\ the\ world,\ as\ well\ as\r\n\ seeing\ and\ eating\ other\ classes.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment3.params=clss
+comment3.target=boolean\ canSee(java.lang.Class)
+comment4.params=clss
+comment4.target=void\ eat(java.lang.Class)
+numComments=5
