@@ -1,10 +1,8 @@
 import greenfoot.*;
 
 /**
- * Write a description of class Dolphin here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ /**
+ ini termasuk bagian inheritance atau pewarisan */
  */
 public class Dolphin extends Animal
 {
