@@ -46,7 +46,11 @@ public class Fish extends Animal
         if( Greenfoot.isKeyDown("right") )
             turn(5);
     }
-    
+        /** kode dibawah ini untuk interaksi antar objek yg dinamis dan menarik
+       dan juga termasuk polimorfisme variasi perilaku objek.
+     Pernerapan Overriding terjadi didalam kelas,
+     sedangkan penerapan Overloading dilakukan dalam dua kelas dengan
+     hubungan warisan. */
     public void eatShroom()
     {
         if( canSee(Plankton.class) )
