@@ -35,6 +35,7 @@ public class Dolphin extends Animal
             turn(5);
         }
     }
+     /** ini termasuk enkapsulasi */
     protected void eatFish()
     {
         if( canSee(Fish.class) )
