@@ -12,7 +12,7 @@ public class Kepiting extends Actor
      * Act - do whatever the Kepiting wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
-    public void action()
+    public void act()
 {
 setLocation(getX() - 2, getY());
 if (getX() <= 0)
